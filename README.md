@@ -14,3 +14,6 @@ Git helps track changes in files. GitHub hosts repositories online and supports 
 
 ## Usage Notes
 Use `git status` to check file changes and `git log --oneline` to view commit history.
+
+## Main Branch Update
+This change is added on the main branch for rebase practice.
